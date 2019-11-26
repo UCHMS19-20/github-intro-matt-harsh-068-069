@@ -1,6 +1,7 @@
-#What I Know About Git
 ---
-##Commands
+# What I Know About Git
+---
+## Commands
 * `clone` - takes existing git repository and copies it locally
 * `init` - initializes git repository
 * `add` - adds files to staging area
@@ -9,12 +10,12 @@
 * `pull` - merges remote changes made to code
 
 --
-##Being a Version Control System
+## Being a Version Control System
 * Repositories - a digital location for data and files
 * Branches - different paths of a project
 * Merging - combining different branches 
 
-##Resources
+## Resources
 * Markdown:
  * [Markdown Cheatsheet] (https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  * [Markdown Editor] (https://stackedit.io/)
