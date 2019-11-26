@@ -17,8 +17,8 @@
 
 ## Resources
 * Markdown:
- * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
- * [Markdown Editor](https://stackedit.io/)
- * [Markdown Editor & Cheetsheet](https://daringfireball.net/projects/markdown/dingus)
+ - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ - [Markdown Editor](https://stackedit.io/)
+ - [Markdown Editor & Cheetsheet](https://daringfireball.net/projects/markdown/dingus)
 * General Git Structure:
- * [Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html)
+ - [Git Parable](https://tom.preston-werner.com/2009/05/19/the-git-parable.html)
